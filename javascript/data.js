@@ -70,7 +70,7 @@ const productsData = [
     name: "Campaña de Donación de Sangre",
     descripcion:
       "Organizar campañas regulares de donación de sangre para abastecer bancos de sangre locales y salvar vidas.",
-    cardImg: "/intregrado-landing-main/javascript/proyectos/proyect-7.jpg",
+    cardImg: "/javascript/proyectos/proyect-7.jpg",
     category: "salud",
     donacion: "¡Dona un dólar y salva vidas a través de la donación de sangre!",
     bid: "1",
