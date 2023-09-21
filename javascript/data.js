@@ -26,7 +26,7 @@ const productsData = [
     name: "Campañas de Vacunación",
     descripcion:
       "Colaborar con organizaciones de salud para llevar a cabo campañas de vacunación gratuitas en comunidades necesitadas.",
-    cardImg: "/javascript/proyectos/proyect-3.jpg",
+    cardImg: "/javascript/proyectos/proyecto-3.jpg",
     category: "salud",
     donacion:
       "¡Dona un dólar para proteger a las comunidades mediante la vacunación!",
