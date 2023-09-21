@@ -1,4 +1,4 @@
-# Integrador
+# Integrador js
 ## Landing Page
-## Tecnología: Html y Css
+## Tecnología: Html, Css y js
 ### Autor: Lautaro Almada
